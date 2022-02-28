@@ -1,0 +1,196 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Innocency cleared, true worth predicated, against false aspertions: in a letter sent to Mr Henry Burton. From a Christian friend; in defence of Dr Bastwick, one of his quondam fellow sufferers.</title>
+            <author>B. S., fl. 1645.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1645</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 26 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A92440</idno>
+            <idno type="STC">Wing S10</idno>
+            <idno type="STC">Thomason E265_7</idno>
+            <idno type="STC">ESTC R212420</idno>
+            <idno type="EEBO-CITATION">99871044</idno>
+            <idno type="PROQUEST">99871044</idno>
+            <idno type="VID">123442</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A92440)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 123442)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 44:E265[7])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Innocency cleared, true worth predicated, against false aspertions: in a letter sent to Mr Henry Burton. From a Christian friend; in defence of Dr Bastwick, one of his quondam fellow sufferers.</title>
+                  <author>B. S., fl. 1645.</author>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by John Macock.,</publisher>
+                  <pubPlace>London, :</pubPlace>
+                  <date>1645.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>A Christian friend = B.S., who has signed text at foot of page 8.</note>
+                  <note>Annotation on Thomason copy: "Octob: 13th".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Bastwick, John, 1593-1654 --  Early works to 1800.</term>
+               <term>Burton, Henry, 1578-1648 --  Early works to 1800.</term>
+               <term>Persecution --  England --  Early works to 1800.</term>
+               <term>Great Britain --  Religion --  17th century --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-10</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-10</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-12</date>
+            <label>Pip Willcox</label>Sampled and proofread</change>
+         <change>
+            <date>2012-12</date>
+            <label>Pip Willcox</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:123442:1" rendition="simple:additions"/>
+            <p>INNOCENCY CLEARED, True worth Predicated, AGAINST FALSE ASPERTIONS: IN A LETTER SENT To M<hi rend="sup">r</hi> Henry Burton.</p>
+            <p>From a Chriſtian Friend; In Defence of D<hi rend="sup">r</hi> 
+               <hi>Bastwick,</hi> one of his <hi>Quondam</hi> Fellow ſufferers.</p>
+            <q>
+               <bibl>
+                  <hi>Rom. 2.1.3.</hi>
+               </bibl>
+               <p>Therefore thou art inexcuſable, O man, whoſoever thou art, that Judgest: for wherein thou judgest another, thou condemnest thy ſelfe; for thou that judgest dost the ſame things. And thinkest thou this, O man, that judgeſt them that do ſuch things, and doest the ſame, that thou ſhalt eſcape the Judgement of God?</p>
+            </q>
+            <q>
+               <bibl>
+                  <hi>James 4.10, 11.</hi>
+               </bibl>
+               <p>Humble your ſelves in the ſight of the Lord, and he ſhall lift you up. Speak not evill one of another (brethren) he that ſpeaketh evill of his brother, and judgeth his brother, ſpeaketh evill of the Law, and judgeth the Law; but if thou judge the Law, thou art not a doer of the Law but a Judge.</p>
+            </q>
+            <q>
+               <bibl>
+                  <hi>Heb. 12.14.</hi>
+               </bibl>
+               <p>Follow peace with all men, and holineſſe, without which no man ſhall ſee the Lord.</p>
+            </q>
+            <p>
+               <hi>London,</hi> Printed by <hi>John Macock.</hi> 1645.</p>
+         </div>
+         <div type="to_the_reader">
+            <pb facs="tcp:123442:2"/>
+            <head>To the impartiall Reader.</head>
+            <opener>
+               <salute>Chriſtian Reader,</salute>
+            </opener>
+            <p>I Delight not to ſhew my ſelf in Print, yet as it is my duty to admoniſh a brother, which in this inſuing Letter I have done, ſo the like obligation lyes upon me to publiſh it, that I might clear the innocency and predicate the worth of that Godly, Learned, Gentleman Dr. <hi>Baſtwick:</hi> A man on whom the Independents have privately, and publikely, laid loads of defamations; for it ſatisfied them not to give him reproachfull language to his face, (which was ſad to hear, and even a ſhame to repeate) but they ſet forth in Print, known untruths, premed tated Lyes, to make him odious to the World: witneſſe Lieut. Col. <hi>John Lilburne</hi> his book; accuſing him for an ungratefull man (which is a vice, not onely hatefull to God and all good men, but to the very heathens) which charge of his againſt the Doctor was moſt falfe. I hen came out another under the name of a Presbyterian, (but whether in truth, or thew for feme par<g ref="char:EOLhyphen"/>ticular benefit may be ſuſpected) and he accuſeth him to be a proud ſelfe-conceited man, &amp;c. yea he taketh the boldneſſe to lay this deep charge upon him in the name of all his godly Presbyterian friends; which accuſation all the Doctors godly Presbyterian friends and acquaintance, that I know (and I am no ſtranger to the moſt of them) do utterly diſavow; and for this Presbyterian (if one, for I do not think he is) he drives the Innependents deſigne, as may be proved, for when this Letter was framing, an Independent ſaid to ſome that I know, that he and others of his par<g ref="char:EOLhyphen"/>ry were to meete that day, to draw a moderate Letter to be ſent to Doctor <hi>Bastwick.</hi> But the Let<g ref="char:EOLhyphen"/>ter was never ſent unto him; onely a day or two after this meeting, a booke-feller brought a writ<g ref="char:EOLhyphen"/>ten booke, made ready for the Preſſe, and ſhewed it to the Doctor, ſaying as a neighbour, and a friend, he gave him a fight of it, for he was to put it in Print; then this was no Letter, ſent unto him, as on the frontiſpice of his book, he falſely pretends, but at is plaine the Author thereof, call him what they will, conſulted with the Independents about this Letter, and they and he together, framed it after ſuch a manner, as they ſuppoſed would make their deſigne no way ſuſpected, yet by the courſe he took, and the printing, but not ſending it to the Doctor, every man may perceive this Letter was writ and publiſhed meerly to defame Doctor <hi>Baſtwick.</hi> And that comming forth under the name of a Presbyterian, it might render him the more infamous. But this wrought not effectually, and therefore one of his <hi>quondam</hi> fellow-ſufferers, he comes out againſt him, and with his full ſtrength aiming at his head, that ſo (if poſſible) he might ſtrike him downe in the opinion of all men, never to riſe again; (but the hand is too feeble) he preſented this holy, worthy, learned Doctor to the people as a mad man, caſting many reproaches upon him, and amongſt his accuſa<g ref="char:EOLhyphen"/>tions, p. the 24 He complaines of ſtinging netles in the Doctors Booke, but one ſharper then all the reſt: whatſoever conſtruction he makes of the Doctors words there, they are no more but this, Doctor <hi>Baſtwick</hi> out of his pious zeale for Gods glory, and carneſt deſire of the Churches peace and tranquility writ againſt Independency, and exhorts magiſtrates, maſters of families, and parents of children, to labour to keepe the people from errour, that are under their charge, and with faithfull <hi>Abraham</hi> to inſtruct their families in the knowledge, feare, and worſhip of the true God, and with holy <hi>Joſhua, Joſh</hi> 24.15. to ſee that they and their houſe do ſerve the Lord: ſurely this is no bad Councell nor will never ſting a well grounded, ſetled, eſtabliſhed Chriſtian. For if a father preſents wholſome food, that which he knowes is good for his child, but the child either out of ignorance of wantoneſſe refuſech to taſte of the meet, becauſe he ſeeth variety of other diſhes, and ſo ſet out and garniſhed, that they ſeeme pleaſant to the eye, and to be deſired; like to the forbidden fruite <hi>Gen.</hi> 3.6. And if a learned Phiſitian tell the father that thoſe diſhes which ſeem ſo pleaſant to the eve, are mingled with ſuch ingredients as will prove very pernicious to his childs health, he is a ſl<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>p father and not a loving father, that cauſeth not his child to forbeare to taſt of any of thoſe diſhes; and that perſuadeth him not to eate of ſuch food, as he knowes is wholſome and good for nouriſhment, and that <gap reason="illegible" resp="#OXF" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> is no Incendiary for adviſing the father for the welfare of his child; this is the reſult of all, and directly Dr <hi>Baſtwicks</hi> caſe. Courteous Reader, it may be ſome will cenſure me for being too large, but <hi>Seneca</hi> and many excellent Authors have delivered their mindes in Letters far more prolix<gap reason="illegible" resp="#OXF" extent="2 letters">
+                  <desc>••</desc>
+               </gap> 
+               <gap reason="illegible" resp="#OXF" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> now <gap reason="illegible" resp="#OXF" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> a Petitioner unto thee for a licenſe to adde a few words more, to let thee know, that I perceiving the Independents grand deſigne is to uſe all meanes publikely to reproach diſgrace <gap reason="illegible" resp="#OXF" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> and falſly accuſe this worthy ſufferer and faithfull ſervant of the Lord, (who the glory of God the ultimate end of all his endea<g ref="char:EOLhyphen"/>vours) I could do no leſſe then preſent to the publike view of all men, the reall worth, and un<g ref="char:EOLhyphen"/>famed goodneſſe, which I know to be in the Gentleman. This I have done in faithfullneſſe with<g ref="char:EOLhyphen"/>out flattery, and I aſſure thee in the preſence of the Lord (who knowes all things) I ſpeake the truth, I lye not; that Dr. <hi>Baſtwick</hi> nor <gap reason="illegible" resp="#OXF" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> on living and know of this Letter untill it was ſent to Mr. <hi>Burton;</hi> neither doth Dr <hi>Baſtwick yet</hi> know that there was any ſuch Letter writ, ſent, or is to be publiſhed; I beſeech thee read, conſider, judge impartially.</p>
+            <closer>
+               <salute>Farewell.</salute> 
+               <signed>
+                  <hi>Thine in the Lord,</hi> B. S.</signed>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div type="letter">
+            <pb n="3" facs="tcp:123442:2"/>
+            <head>To the Reverend and Honoured M<hi rend="sup">r</hi> 
+               <hi>Henry Burton,</hi> &amp;c.</head>
+            <opener>
+               <salute>SIR,</salute>
+            </opener>
+            <p>SOme few dayes ſince a book intituled <hi>Vindiciae Veritatis,</hi> came into my hand ſubſcribed with your name, which deliberately I peruſed, and was grieved at heart to read ſuch lines from Mr. <hi>Henry Burton,</hi> againſt his <hi>quondam</hi> fellow-ſufferer (Doctor <hi>Bastwicke</hi>) I medle not with your Arguments about Presbyterian de<g ref="char:EOLhyphen"/>pendant, and Presbyterian independant: but I queſtion the ſelfeiſhnes, the falſe accuſing, the fiery ſpirit, the aſperſing Language, which you have ſcattered in ſeverall pages of your booke againſt your fellow-ſuf<g ref="char:EOLhyphen"/>ferer. Sir, God hath beſtowed on Doctor <hi>Baſtwicke,</hi> your ſelfe, and others, extraordinary gifts, for to you it was given, <hi>not onely to believe, but to ſuffer for his ſake;</hi> yea, and to ſuffer at one time, yea and at that time for one cauſe, (your judgement then being different to that it is now) ſo that there was an oneneſſe in the cauſe, and ſufferings; O then why maintaine you not this oneneſſe ſtill! (at leaſt in your affections) but page the ſecond, you ſeeme your ſelfe to inſinuate this queſtion (for ſay you,) <hi>How comes it to paſse that my two fellow-ſufferers, and my ſelfe, ſhould fall at this ods? was it by any divine providence ominated, or preſaged, by your two ſtanding on one Pillory, and mine alone on the other, that we ſhould come upon one Theatre, to become ſpectacles to the world by mutuall digladiations, as if the one Pillory ſhould contend with the other?</hi> thus you. Sir before I anſwer your queſtion, I beſeech you in all chri<g ref="char:EOLhyphen"/>ſtian love give me leave to adviſe you: O take heed, take heed, how you harbour ſuch a thought, as to charge divine providence with your humane frailties, and ſelf ſeeking Vindications, make not God the author of your diviſions, who is a God of unity, peace, and love; it is true by way of permiſſion, <hi>there is no evill in a City, that the Lord hath not done: Amos</hi> 3.6. and the Scripture tells us, it muſt needs be that of<g ref="char:EOLhyphen"/>fences come; but <hi>woe be to that man, by whom the offence cometh:</hi> and therefore I cannot but deale ingenuouſly with you, and for anſwer to your queſtion, tell you, what Godly, holy ſelfe-denying men, not one<g ref="char:EOLhyphen"/>ly converts in part, as you cenſure all of a contrary judgement to your ſelfe to be, but ſome of your owne judgement have ſaid, which is this, That it came to paſſe by your unadviſed thruſting your ſelf in, to con<g ref="char:EOLhyphen"/>tend with Mr. <hi>Prynne</hi> by name, one of your <hi>quondam</hi> fellow ſufferers, whereas according to all rules of friendſhip you were the unfitteſt man for that worke of any, there being many other ſober minded chri<g ref="char:EOLhyphen"/>ſtians
+<pb n="4" facs="tcp:123442:3"/>beſides Mr. <hi>Henry Burton:</hi> and as ſome of your owne party have ſaid, more able to defend, and maintaine their cauſe then your ſelfe; but for my part I queſtion not your abilities; but this is very cleare, that you, and you onely did make this odds, with your fellow-ſufferer: and ſo primarily and originally you have cauſed all the difference be<g ref="char:EOLhyphen"/>tweene you, by proclaiming all of a contrary judgement to your ſelfe, though otherwiſe never ſo godly, to be enemies to the government of the Lord Ieſus Chriſt; which opinion Doctor <hi>Baſtwicke</hi> Learnedly and Chriſtianly confuted and reproved, naming no man: Sir I ho<g ref="char:EOLhyphen"/>nour you, and in the name of our Lord Ieſus Chriſt beſeech you, who am a fellow-ſufferer with you, and that in as deepe a meaſure as any, though not to blood; lay this to heart, that you have had a hand in cauſing offences in the Church by your unchriſtianing and cenſuring the dear people of God. O pull downe every high thought that exalteth itſelf! and humble your ſelfe before the Lord for this miſcarriage, leſt you be lyable to that woe pronounced, <hi>Mat.</hi> 18.7. Thus in chriſtian love I have faithfully and truely, as in the ſight of God, anſwered your que<g ref="char:EOLhyphen"/>ſtion. But you will ſay, how make you good that charge in the be<g ref="char:EOLhyphen"/>ginning of your Letter? Sir, I ſhall doe it from your owne writings, for I find in them that your chiefe labour and paines is ſpent to vindi<g ref="char:EOLhyphen"/>cate and exalt your ſelfe; for the Arguments of difference they are but coldly and unſatisfactorily handled; but when you come to your ſelfe, who you ſay have beene unſufferably wronged, then you are ſo heated, that while you ſeem to blame the Doctor, you forget your promiſe, page 2. where you ſay, [you will anſwer him in ſoberneſſe and in the ſpirit of meekneſſe and love] and you fall into unadviſed, unſeemly, unbrotherly Language, and falſe accuſations againſt Do<g ref="char:EOLhyphen"/>ctor <hi>Baſtwicke:</hi> But you have beene provoked not a litle [for ſay you] the Doctor ſpeakes of a grave man, with a white basket-hilted beard [though not naming any, yet you were the man aimed at.] Why, good Sir, if you were: Here is gravity acknowledged, which ſpeakes a re<g ref="char:EOLhyphen"/>verence borne to the man, though a diſlike of his uncharitable and un<g ref="char:EOLhyphen"/>warrantable writings: But the Doctor expreſſeth himſelfe with a ſcurrilous Epithite (ſay you.) I deny it, for it is but a harmeleſſe jeſt, and no other; it can never hurt you; and truely a meeke hearted <hi>Mo<g ref="char:EOLhyphen"/>ſes,</hi> would have paſſed it by, and have taken no notice of it, nor have made ſuch acclamation about a merry word. But it is a diſgrace which you cannot beare; O! Oh! ſelfe appeares exceedingly in all your lines; and becauſe you have made ſuch an out-cry, and make a man an offender for a word, take a view of your owne Language to your <hi>quon<g ref="char:EOLhyphen"/>dam</hi> fellow-ſufferer, worthy Doctor <hi>Baſtwick,</hi> but before I give you
+<pb n="5" facs="tcp:123442:3"/>in your Catalogue of unſavory words, I here proteſt in the preſence of God [who knowes the ſecrets of all hearts, and from whoſe eyes nothing can be hid] that neither Doctor <hi>Baſtwick,</hi> nor any mortall man, as yet, doth know of this Letter unto you: for the noble Doctor did ride into the Country before your booke came forth, and is not yet returned, ſo that he hath never ſeene your booke, therefore no in<g ref="char:EOLhyphen"/>ſtigation from him hath procured me to write; but when I ſaw how all along your booke, you falſly accuſed that deſerving Gentleman, labouring to take away his good name, which <hi>Solomon</hi> ſaith, <hi>is better then precious oyntment; Eccleſi.</hi> 7.1. And I having had ſuch experience [as none in <hi>England</hi> hath had more] of the Doctors worth, Zeale for Gods glory, and Chriſtian Converſation; it made me that I durſt not be ſilent, leſt I ſhould be partaker with you in your ſinne. And for the Doctors expreſſions in his bookes, which you make ſo much adoe about, I aſſure you the many affronts, the baſe unworthy Language, that he hath from time to time undergone, from many both men &amp; wo<g ref="char:EOLhyphen"/>men, of your judgement, vilifying, reviling, &amp; ſcorning him to his face ſome of them being of no mean account amongſt you, was the cauſe of them; for before he had publiſhed any booke [onely they heard he was writing againſt their opinion] they dayly abuſed him moſt un<g ref="char:EOLhyphen"/>worthily, for which he privately in Chriſtian love reproved them, but when he ſaw that his ſilence and patience did no good, this cauſed him to make his <hi>Poſtſcript,</hi> and the other booke truly relating their unchri<g ref="char:EOLhyphen"/>ſtian Carriage, and laughing at their unreprovable folly. And doth not God laugh at the wicked, who will go on in their ſinfull and per<g ref="char:EOLhyphen"/>verſe wayes, and will not be reproved; ſee <hi>Prov.</hi> 1.25.26. Truly Mr. <hi>Burton,</hi> I am confident had you beene ſo provoked by the Con<g ref="char:EOLhyphen"/>trary party, as Doctor <hi>Baſtwick</hi> hath beene by your party, your ſpirit would not have brookt it, with ſo much patience as he hath done.</p>
+            <p>Sir, this by the way being premiſed, I beſeech you now take and peruſe the catalogue of all your unbrotherly Invectives againſt your <hi>quondam</hi> fellow-ſufferer. You render him to the world an <hi>Hypocrite, pag.</hi> 17. (one that hath but faire flouriſhes of holineſſe) <hi>pag.</hi> 18. You conclude him an <hi>Adverſary to Chriſts King dome,</hi> and an open enemy and perſecuter of the Church. <hi>Pag.</hi> 20, you charge him with <hi>doing wrong, and walking ſcandalouſly,</hi> to the great offence and ſhame of the very name of Chriſtian Religion. <hi>Pag.</hi> 21. You make him to be worſe then a naturall <hi>Heathen,</hi> a baſe, and barbarous man. <hi>Pag.</hi> 25. You a<g ref="char:EOLhyphen"/>verre, and do ſeem to take upon you to prove him one of the greateſt Incendiaries in the Land. <hi>Pag.</hi> 28. You ſpeak of him as of a <hi>diſhoneſt man,</hi> and ſubtily calling him <hi>Serpent.</hi> You then run your ſelfe out of
+<pb n="6" facs="tcp:123442:4"/>breath with calumnies, <hi>pag.</hi> 29, telling him, he is a <hi>hollow-hearted man,</hi> hath a <hi>ſhallow brain,</hi> which in plain Engliſh is a <hi>Foole,</hi> And that not only his heart is divided, but his head, &amp;c. So that by your railing Rhetorick you preſent him to the world, a <hi>mad man.</hi> You ſay not as <hi>Ioab,</hi> he hath <hi>ſmote you in the fift rib;</hi> but I dare ſay and affirme it, you have unchriſtianly and cauſleſly laboured to wound him in the <hi>head,</hi> the moſt excellent part of man; And all this hot and furious purſuit after the good Doctor, is for nothing elſe but becauſe he plaid with your <hi>Beard.</hi> But, <hi>pag.</hi> 28. you ſeem to have a further charge a<g ref="char:EOLhyphen"/>gainſt your brother, in that he ſpeaks of ſome that did ſet in the fron<g ref="char:EOLhyphen"/>tiſpieces of their Books, Chriſts words, <hi>Mat.</hi> 10.34, 35, 36. And be<g ref="char:EOLhyphen"/>cauſe he [out of reſpect to the Author] named no man; but with Chriſtian wiſdome reproved the unſeaſonableneſſe of applying that place of Scripture, in a time when diviſions are already ſo great and many amongſt brethren; inſomuch that every man, eſpecially ſuch a one as you, ſhould improve all your time, graces, knowledge, wit and learning, to make up theſe breaches, and to compoſe the ſad dif<g ref="char:EOLhyphen"/>ferences. For certainly, to urge ſuch places of Scripture in a time of ſo great diſtractions, will give too too much incouragement to the ruder ſort of your party, who are not afraid to do whatſoever ſeems <hi>good in their eyes,</hi> and to ſay they will have <hi>liberty of conſcience, now they have the ſword in their own hands,</hi> [for thus ſome of them have ſaid] yea, where they think themſelves ſtrong, if a Miniſter preach againſt their way, they riſe up againſt that man to deſtroy him. This I ſpeak of, becauſe, <hi>pag.</hi> 24. you mention a late miſ-rule at <hi>Colcheſter</hi> [but you do not ſay it was your party that was ſo unruly] you call it, the Doctors Town of <hi>Colcheſter.</hi> The Doctor indeed for many yeares lived in that Town, and did much good among the people, and there I had the hap<g ref="char:EOLhyphen"/>pineſſe to enjoy his ſociety very frequently: But the Prelate of <hi>Can<g ref="char:EOLhyphen"/>terbury</hi> by his Purſeuvants fetcht him from thence above eleven yeares agone, and caſt him into priſon, ſince which time he was never in <hi>Colcheſter.</hi> But you ſay, upon his Books, and <hi>T.E.</hi> his preaching, this miſ-rule happened. <hi>Sir,</hi> the mentioning of this diſorder, in my judge<g ref="char:EOLhyphen"/>ment diſcovers ſome weakneſſe in you; for it may be a great diſad<g ref="char:EOLhyphen"/>vantage to your Cauſe, and ratifies what the Doctor hath ſaid of your party: for, becauſe a Gentleman hath written againſt their way, and that the Miniſters do preach againſt it, conceiving there is not any ground for it in Gods word; was this a ſufficient warrant for them to riſe and make a tumult: wherefore did they come into the Congre<g ref="char:EOLhyphen"/>gation? for they knew before they came, that Mr. <hi>T.E.</hi> was of a con<g ref="char:EOLhyphen"/>trary
+<pb n="7" facs="tcp:123442:4"/>judgement to them, and they at other times will not endure to heare any other Miniſters but their own: ſo that it is plain, they then came on purpoſe to make a diſturbance in the Congregation. I heare in that Town ſeverall Opinions do increaſe, and this action of theirs ſpeaks loud in the eares of every ſober-minded Chriſtian. Where that party is ſtrong, they will not ſuffer any of a contrary opinion to write, or preach any thing againſt their way. <hi>Sir,</hi> I never heard of this up<g ref="char:EOLhyphen"/>rore, untill I read of it in your Book: but the laſt night I ſpake with ſome that were at <hi>Colcheſter</hi> at that time when the <hi>Independents</hi> ſo mo<g ref="char:EOLhyphen"/>leſted the people, (to the ſhame indeed of the very name of Chriſtian Religion) And they told me, That had not the Magiſtrates aided the Miniſter, it was feared they would have kill'd him. We ſee what it is like to come to where they have power. <hi>Sir,</hi> you preach, and write, and other of your Miniſters preach publikely againſt the <hi>Presbyterian</hi> way, and you are not in danger of your lives, nor are you moleſted when you preach publikely; and yet, as with one conſent, you have of late ſet your ſelves to preach up your way, where ever you come; tru<g ref="char:EOLhyphen"/>ly it is time for a ſetled Government, when your party comes to this height, that they will not ſuffer any thing to be preached or writ a<g ref="char:EOLhyphen"/>gainſt their way, but they wil riſe, <hi>(they will give Laws at laſt, if this goon)</hi> I know there are ſome truly Godly, that are different in judgements: but there are, we ſee by this preſident, and that tumultuous Company that abuſed Doctor <hi>Baſtwick</hi> at <hi>Weſtminſter,</hi> many of your judgement that miſaply our Saviours words, <hi>Mat.</hi> 10.34, 5, 36. And therefore I am of this mind, and many who are godly and wiſe do agree with me, and the Doctor herein, that this was not a time nor leaſon for ſuch as deſire the peace of Gods Church, to urge that Scripture; ſo that all things conſidered, you complaine cauſleſſely againſt the Doctor ſtill. O Mr. <hi>Burton!</hi> I humbly intreate you bethinke your ſelfe what you have done; you blame bitter ſpeaking (and it is blame worthy in any) but you know the Apoſtle ſaith, <hi>he is inexcuſable,</hi> whoſoever he be, <hi>that judgeth another, and doth the ſame thing, Rom.</hi> 2.1. This is your caſe, the Lord lay your ſinne open before your owne face as it lies open to the view of all men, and to every impartiall Chriſtian. Sir, I would draw to an end, but I cannot with the diſcharge of a good conſcience conclude, untill I have declared unto you, the truth of what I know, concerning Doctor <hi>Baſtwick,</hi> with whom I have had the honour to en<g ref="char:EOLhyphen"/>joy intimate acquaintance above this twenty yeares: and if I ſhould ſay no more of him then this in generall, (which without all partiality I ſpeake in the preſence of God) I know him to be a man whoſe whole frame of foule is ſet againſt all ſinne; this might be enough to wipe
+<pb n="8" facs="tcp:123442:5"/>away thoſe blacke Calumnies which you have laboured to beſmeare both his ſoule and body with; for indeed you have ſtrucke your ſtroks ſo, as aiming to hit both; therefore give me leave to ſpeake a litle more particularly, to manifeſt his inocency and ſet forth his integri<g ref="char:EOLhyphen"/>ty. Firſt, for his ſhewes of holineſſe they are no flouriſh but the fruits of his ſincerity to God; his naturall inclination is to be merry, yet with ſobriety [allow a few drams of lawfull mirth to his conſtitution] he is a man not eaſily provoked to wrath; he is a man, of an aimable, loving, and courteous carriage; and however malice may ſeeke to de<g ref="char:EOLhyphen"/>tract from him, yet I can truely ſay, and many of the pooreſt of Gods people, which tries humility, can teſtifie the ſame with me, That he is of a moſt ſweet, humble ſpirit, pitifull to all, but tranſcendently com<g ref="char:EOLhyphen"/>paſionate to the poor people of God; an honeſt man, and juſt in all his actions; one of them, <hi>David</hi> ſpeakes of, <hi>Pſal.</hi> 15.4. A man much in meditation, and walketh cloſely with his God; ſo that he may de<g ref="char:EOLhyphen"/>fie the Devill, or any man, in that particular, who ſhall accuſe him, as a ſcandalous walker.</p>
+            <p>He travelled for nine yeares together into other Countryes, and hath as large and ample teſtimonies from all the reformed Churches where he lived beyond the ſeas, for his godly life and blameleſſe converſation, and his abilities in learning, as ever I ſaw or read of any man; alſo he hath as ample a teſtimony from the mageſtrates and miniſters of the towne of <hi>Colchester,</hi> for his godly life, quiet, and peacable converſati<g ref="char:EOLhyphen"/>on, whileſt he lived amongſt them; and what I ſpeake is not from heare-ſay, but all of my owne Knowledge, through the intimate and long acquaintance I have had with him. He hath ſeverall Languages in perfection, ſo as he is able to do ſervice, to the Church and State at home, and abroad. O Sir! much more may be ſaid in the due com<g ref="char:EOLhyphen"/>mendations of this your <hi>quondam</hi> fellow-ſufferer, and that without flattery, for the gifts and graces of God are to be acknowledged and honoured in an enemy, much more in a friend, and ſufferer; and God hath given to Doctor <hi>Baſtwicke</hi> a rich portion of ſpirituall and natu<g ref="char:EOLhyphen"/>rall endowments; and will you, good Sir, ſuffer your ſelfe to be ſo farre tranſported with paſſion, as to deny the graces of God that is in him, becauſe he is not of your Judgement, or becauſe he played too famili<g ref="char:EOLhyphen"/>arly with your beard; the Lord ſhew you the evill of your ſo doing; and give you a ſelf-derving heart, a ſorrowfull, humble, and contrite ſpirit, for the offence you have occaſioned in the Church of God, and ſtrengthen you ſo with his might, that now you may ſpend your whole indeavours to make up the ſad breaches amongſt Gods people. This ſhall be the dayly prayer of;</p>
+            <closer>
+               <salute>Sir,</salute> 
+               <signed>Your faithfull friend to ſerve you in the Lord, <hi>B. S.</hi>
+               </signed>
+            </closer>
+            <pb facs="tcp:123442:5"/>
+         </div>
+      </body>
+   </text>
+</TEI>
